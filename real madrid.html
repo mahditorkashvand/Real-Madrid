@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Real Madrid - News</title>
+
+    <!-- Bootstrap -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+
+<!-- heder -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm px-3">
+    <div class="container-fluid d-flex justify-content-between align-items-center">
+
+        <!---------->
+        <div class="d-flex align-items-center gap-3">
+
+            <!-------->
+            <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-------->
+            <a class="navbar-brand m-0" href="#">
+                <img src="img/Real.PNG" alt="Real Madrid" class="header-logo" height="40">
+            </a>
+
+            <!-------->
+            <div style="width:1px; height:30px; background-color:#ccc;"></div>
+
+            <!-------->
+            <a href="https://www.realmadrid.com/en-US/the-club/track-record/football">
+                <img src="img/CABECERA_PARCHE_15_nuevo.png" alt="Champions League" class="header-logo" height="40">
+            </a>
+        </div>
+
+        <!---------->
+        <div class="collapse navbar-collapse justify-content-center" id="mainNavbar">
+            <ul class="navbar-nav mb-2 mb-lg-0">
+                <li class="nav-item"><a class="nav-link" href="https://madridistas.com/en-US/madridistas/landing/">Madridistas</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://www.realmadrid.com/en-US/tickets?filter-tickets=vip;general&filter-football=primer-equipo-masculino">Tickets</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://www.realmadrid.com/sites/en/vip-area">Hospitality</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://www.realmadrid.com/sites/en/tour-bernabeu">Tour</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://us.shop.realmadrid.com/?itm_campaign=rm_header_shop&utm_source=web&utm_medium=shop-links&utm_campaign=rm_header_shop_es&utm_content=shop&language=en-US">Shop</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://play.realmadrid.com/home?itm_campaign=rmcom-menuheader_all_acceso_ott_en&language=en-US">RM Play</a></li>
+            </ul>
+        </div>
+
+        <!----------->
+        <div class="d-flex align-items-center gap-3">
+            <a href="https://www.adidas.co.uk/football"> <img src="img/addidas.png" alt="Adidas" class="header-logo d-none d-lg-block" height="40"></a>
+            <a href="sign%20in.html" class="btn btn-outline-primary btn-sm sign-in-btn">Sign in</a>
+        </div>
+
+    </div>
+</nav>
+<!-- Featured News (خبر بزرگ) -->
+<section class="container my-5">
+    <div class="bg-white rounded-4 shadow-sm overflow-hidden d-flex flex-column flex-md-row align-items-center news-card-big">
+        <img src="img/bign.jpg" alt="big news" class="img-fluid featured-img" />
+        <div class="p-4 text-center text-md-start">
+           <a href="https://www.realmadrid.com/en-US/news/football/first-team/trainings/el-equipo-se-esta-entrenando-04-08-2025"><h2 class="featured-title">
+               Real Madrid complete the first training session of the season</h2></a>
+        </div>
+    </div>
+</section>
+
+<!-- Small News Cards (اخبار کوچک) -->
+<section class="container my-4">
+    <div class="row g-3 flex-nowrap overflow-auto overflow-lg-visible news-scroll-row">
+
+        <!-- خبر ۱ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/arranco-el-real-madrid-2025-26-04-08-2025"><img src="img/small1.jpg" class="card-img-top" alt="news 1" /></a>
+                <div class="card-body">
+                   <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/arranco-el-real-madrid-2025-26-04-08-2025"> <p class="card-text">Real Madrid get their 2025-26 campaign underway</p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۲ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/football/first-team/special-features/especial-fichajes-2025-2026-20-07-2025"> <img src="img/small2.jpg" class="card-img-top" alt="news 2" /></a>
+                <div class="card-body">
+                   <a href="https://www.realmadrid.com/en-US/news/football/first-team/special-features/especial-fichajes-2025-2026-20-07-2025"><p class="card-text">2025-2026 signings special”</p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۳ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-disputara-en-austria-un-partido-de-pretemporada-ante-el-wsg-tirol-01-08-2025"><img src="img/small3.jpg" class="card-img-top" alt="news 3" /></a>
+                <div class="card-body">
+                   <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-disputara-en-austria-un-partido-de-pretemporada-ante-el-wsg-tirol-01-08-2025"><p class="card-text">Real Madrid set to play pre-season clash with WSG Tirol in Austria</p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۴ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/basket/first-team/special-features/especial-fichajes-baloncesto-2025-26-01-08-2025"><img src="img/small4.jpg" class="card-img-top" alt="news 4" /></a>
+                <div class="card-body">
+                   <a href="https://www.realmadrid.com/en-US/news/basket/first-team/special-features/especial-fichajes-baloncesto-2025-26-01-08-2025"><p class="card-text">Basketball signings special - 2025-26</p></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- تبلیغات یا سایر محتوا -->
+<div class="container-fluid my-4 ad-banner-wrapper">
+    <div class="bg-light rounded-4 text-center py-4">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+            <img src="img/LV.jpeg" alt="Ad Banner" class="img-fluid mx-auto d-block ad-banner-img" />
+        </a>
+    </div>
+</div>
+
+<!------------------next event-------------------->
+<section class="next-events-section">
+
+    <div class="next-events-header">
+        <h2>Next Events</h2>
+    </div>
+
+    <div class="next-events-filters">
+        <button class="filter-btn active">Teams (1)</button>
+        <button class="filter-btn">Subscribe</button>
+    </div>
+
+    <div class="events-slider-container">
+        <button class="slider-btn left" id="slideLeft" aria-label="Prev">
+            <!-- فلش چپ SVG -->
+            <svg viewBox="0 0 16 16" fill="none"><path d="M10.5 13.5L5.5 8L10.5 2.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+
+        <div class="events-slider" id="eventsSlider">
+            <!-- کارت 1 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/wsg.jpg" alt="WSG Tirol">
+                            <span class="team-name">WSG Tirol</span>
+                        </div>
+                        <div class="vs-icon">VS</div>
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Madrid">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">Friendly</span>
+                    <span class="match-info">Fútbol · Primer Equipo</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Tuesday, Aug 12, 7:00 PM h
+                    </div>
+                    <div class="match-location">
+                        Tivoli Stadion Tirol
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 2 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Madrid">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/osa.jpg" alt="Osasuna">
+                            <span class="team-name">Osasuna</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 1</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Tuesday, Aug 19, 9:00 PM h
+                    </div>
+                    <div class="match-location">
+                        Estadio Santiago Bernabéu
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 3 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/realoo.jpg" alt="Real Oviedo">
+                            <span class="team-name">Real Oviedo</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Madrid">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 2</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Sunday, Aug 24, 9:30 PM h
+                    </div>
+                    <div class="match-location">
+                        Estadio Municipal Carlos Tartiere
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 4 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Oviedo">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/mall.jpg" alt="Real Madrid">
+                            <span class="team-name">Mallorca</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 3</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Aug 31 (date and time to be confirmed)
+                    </div>
+                    <div class="match-location">
+                        Estadio Santiago Bernabéu
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 5 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/relaso.jpg" alt="Real Oviedo">
+                            <span class="team-name">Real Sociedad</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Madrid">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 4</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Sep 14 (date and time to be confirmed)
+                    </div>
+                    <div class="match-location">
+                        Reale Arena
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 6 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Oviedo">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/esp.jpg" alt="Real Madrid">
+                            <span class="team-name">Espanyol</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 5</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Sep 21 (date and time to be confirmed)
+                    </div>
+                    <div class="match-location">
+                        Estadio Santiago Bernabéu
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 7 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/leva.jpg" alt="Real Oviedo">
+                            <span class="team-name">Levante</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Madrid">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 6</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Sep 24 (date and time to be confirmed)
+                    </div>
+                    <div class="match-location">
+                        Estadio Ciudad de Valencia
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 8 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/atletico.jpg" alt="Real Oviedo">
+                            <span class="team-name">Atletico de madrid</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Madrid">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 7</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Sep 28 (date and time to be confirmed)
+                    </div>
+                    <div class="match-location">
+                        Metropolitano
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 9 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Oviedo">
+                            <span class="team-name">Real Madrid</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/villa.jpg" alt="Real Madrid">
+                            <span class="team-name">Villarreal</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 8</span>
+                    <div class="match-date">
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Oct 5 (date and time to be confirmed)
+                    </div>
+                    <div class="match-location">
+                        Estadio Santiago Bernabéu
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+            <!-- کارت 10 -->
+            <div class="event-card">
+                <div class="card-top">
+                    <div class="teams">
+                        <div class="team">
+                            <img class="team-logo" src="img/geta.jpg" alt="Real Oviedo">
+                            <span class="team-name">Getafe</span>
+                        </div>
+                        <div class="vs-icon">
+                            <img src="img/lllllaliiga.svg" alt="La Liga" style="width:38px;height:38px;margin:0 1px;vertical-align:middle;">
+                        </div>
+                        <div class="team">
+                            <img class="team-logo" src="img/realmadrid.jpg" alt="Real Madrid">
+                            <span class="team-name">Rela Madrid</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-bottom">
+                    <span class="match-type">La Liga</span>
+                    <span class="match-info">Matchday 9</span>
+                    <div class="match-date " >
+                        <svg fill="currentColor" viewBox="0 0 20 20"><path d="M6 2a1 1 0 012 0v1h4V2a1 1 0 012 0v1h1a2 2 0 012 2v1H3V5a2 2 0 012-2h1V2zm10 5H4v9a2 2 0 002 2h8a2 2 0 002-2V7z"/></svg>
+                        Oct 19 (date and time to be confirmed)
+                    </div>
+                    <div class="match-location">
+                        Estadio Municipal Carlos Tartiere
+                    </div>
+                    <a href="#" class="more-link">More</a>
+                </div>
+            </div>
+
+            <!-- کارت‌های بیشتر رو می‌تونی به همین سبک اضافه کنی -->
+        </div>
+
+        <button class="slider-btn right" id="slideRight" aria-label="Next">
+            <!-- فلش راست SVG -->
+            <svg viewBox="0 0 16 16" fill="none"><path d="M5.5 2.5L10.5 8L5.5 13.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+    </div>
+</section>
+
+<!-- تبلیغات یا سایر محتوا -->
+<div class="container-fluid my-4 ad-banner-wrapper">
+    <div class="bg-light rounded-4 text-center py-4">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+            <img src="img/6613222538127901605.jpeg" alt="Ad Banner" class="img-fluid mx-auto d-block ad-banner-img" />
+        </a>
+    </div>
+</div>
+<!-- Small News Cards (اخبار کوچک) -->
+<section class="container my-4">
+    <div class="row g-3 flex-nowrap overflow-auto overflow-lg-visible news-scroll-row">
+
+        <!-- خبر ۱ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/real-madrid-osasuna-en-la-primera-jornada-de-la-liga-2025-26-01-07-2025"><img src="img/small5.jpg" class="card-img-top" alt="news 1" /></a>
+                <div class="card-body">
+                    <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/real-madrid-osasuna-en-la-primera-jornada-de-la-liga-2025-26-01-07-2025"> <p class="card-text">Real Madrid's 2025-26 La Liga schedule</p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۲ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="http://realmadrid.com/en-US/news/club/announcements/comunicado-oficial-mastantuono-13-06-2025"> <img src="img/small6.jpg" class="card-img-top" alt="news 2" /></a>
+                <div class="card-body">
+                    <a href="http://realmadrid.com/en-US/news/club/announcements/comunicado-oficial-mastantuono-13-06-2025"><p class="card-text">Official Announcement: Mastantuono</p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۳ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mastantuono-nuevo-jugador-del-real-madrid-13-06-2025"><img src="img/small7.jpg" class="card-img-top" alt="news 3" /></a>
+                <div class="card-body">
+                    <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mastantuono-nuevo-jugador-del-real-madrid-13-06-2025"><p class="card-text">Mastantuono signs for Real Madrid</p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۴ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/club/latest-news/noticia-real-madrid-ejercicio-economico-2025"><img src="img/small8.jpg" class="card-img-top" alt="news 4" /></a>
+                <div class="card-body">
+                    <a href="https://www.realmadrid.com/en-US/news/club/latest-news/noticia-real-madrid-ejercicio-economico-2025"><p class="card-text">REAL MADRID CLOSES THE 2024/25 FINANCIAL YEAR WITH A NET PROFIT OF 24 MILLION EUROS</p></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<!-- Small News Cards (اخبار کوچک) -->
+<section class="container my-4">
+    <div class="row g-3 flex-nowrap overflow-auto overflow-lg-visible news-scroll-row">
+
+        <!-- خبر ۱ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/asi-es-la-nueva-camiseta-para-la-temporada-2025-26-06-06-2025"><img src="img/small9.jpg" class="card-img-top" alt="news 1" /></a>
+                <div class="card-body">
+                    <a href="https://www.realmadrid.com/en-US/news/football/first-team/latest-news/asi-es-la-nueva-camiseta-para-la-temporada-2025-26-06-06-2025"> <p class="card-text">A look at the new 2025-26 home jersey
+                    </p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۲ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/basket/first-team/special-features/especial-la-liga-38-02-07-2025"> <img src="img/small10.jpg" class="card-img-top" alt="news 2" /></a>
+                <div class="card-body">
+                    <a href="https://www.realmadrid.com/en-US/news/basket/first-team/special-features/especial-la-liga-38-02-07-2025"><p class="card-text">Special: 38th League title</p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۳ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/club/latest-news/forbes-31-05-2025"><img src="img/small11.jpg" class="card-img-top" alt="news 3" /></a>
+                <div class="card-body">
+                    <a href="https://www.realmadrid.com/en-US/news/club/latest-news/forbes-31-05-2025"><p class="card-text">Real Madrid named Forbes' most valuable football club in the world for the fourth successive year </p></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- خبر ۴ -->
+        <div class="col-10 col-sm-6 col-md-3 flex-shrink-0">
+            <div class="card news-card h-100 shadow-sm border-0 rounded-4 news-card-small">
+                <a href="https://www.realmadrid.com/en-US/news/football/first-team/special-features/la-36-liga-17-05-2024"><img src="img/small12.jpg" class="card-img-top" alt="news 4" /></a>
+                <div class="card-body">
+                    <a href="https://www.realmadrid.com/en-US/news/football/first-team/special-features/la-36-liga-17-05-2024"><p class="card-text">36th league special</p></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<!-- تبلیغات یا سایر محتوا -->
+<div class="container-fluid my-4 ad-banner-wrapper">
+    <div class="bg-light rounded-4 text-center py-4">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+            <img src="img/AD.png" alt="Ad Banner" class="img-fluid mx-auto d-block ad-banner-img" />
+        </a>
+    </div>
+</div>
+<!---------------A legendary track record-------------->
+<section class="legendary-record-section">
+    <div class="record-title">A legendary track record</div>
+    <div class="record-content">
+        <!-- ستون چپ: عکس -->
+        <div class="record-image">
+            <img src="img/uclchamp.jpg" alt="Trophy Wall" />
+        </div>
+        <!-- ستون راست: جام‌ها -->
+        <div class="record-trophies">
+            <div class="trophies-cols">
+                <!-- ستون اول -->
+                <div class="trophies-col">
+                    <!-- The Best Club of the 20th Century -->
+                    <div class="trophy-row">
+                        <div class="trophy-icon-count">
+                            <img src="img/the%20best.svg" alt="">
+                            <span class="trophy-count" id="bestclub-count">1</span>
+                        </div>
+                        <div class="trophy-info">
+                            <span class="trophy-title">The Best Club of Century</span>
+                            <div class="trophy-progress"><div class="progress-bar" id="bestclub-bar"></div></div>
+                        </div>
+                    </div>
+                    <!-- Champions League -->
+                    <div class="trophy-row">
+                        <div class="trophy-icon-count">
+                            <img src="img/champion.svg" alt="">
+                            <span class="trophy-count" id="ucl-count">15</span>
+                        </div>
+                        <div class="trophy-info">
+                            <span class="trophy-title">Champions League</span>
+                            <div class="trophy-progress"><div class="progress-bar" id="ucl-bar"></div></div>
+                        </div>
+                    </div>
+                    <!-- FIFA Club World Cup -->
+                    <div class="trophy-row">
+                        <div class="trophy-icon-count">
+                            <img src="img/fifa.svg" alt="">
+                            <span class="trophy-count" id="clubwc-count">5</span>
+                        </div>
+                        <div class="trophy-info">
+                            <span class="trophy-title">FIFA Club World Cup</span>
+                            <div class="trophy-progress"><div class="progress-bar" id="clubwc-bar"></div></div>
+                        </div>
+                    </div>
+                    <!-- UEFA Super Cup -->
+                    <div class="trophy-row">
+                        <div class="trophy-icon-count">
+                            <img src="img/UEFA.svg" alt="">
+                            <span class="trophy-count" id="uefa-count">5</span>
+                        </div>
+                        <div class="trophy-info">
+                            <span class="trophy-title">UEFA Super Cup</span>
+                            <div class="trophy-progress"><div class="progress-bar" id="uefa-bar"></div></div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- ستون دوم -->
+                <div class="trophies-col">
+                    <!-- La Liga -->
+                    <div class="trophy-row">
+                        <div class="trophy-icon-count">
+                            <img src="img/laliga.svg" alt="">
+                            <span class="trophy-count" id="laliga-count">36</span>
+                        </div>
+                        <div class="trophy-info">
+                            <span class="trophy-title">La Liga</span>
+                            <div class="trophy-progress"><div class="progress-bar" id="laliga-bar"></div></div>
+                        </div>
+                    </div>
+                    <!-- Copa del Rey -->
+                    <div class="trophy-row">
+                        <div class="trophy-icon-count">
+                            <img src="img/copa.svg" alt="">
+                            <span class="trophy-count" id="copadelrey-count">20</span>
+                        </div>
+                        <div class="trophy-info">
+                            <span class="trophy-title">Copa del Rey</span>
+                            <div class="trophy-progress"><div class="progress-bar" id="copadelrey-bar"></div></div>
+                        </div>
+                    </div>
+                    <!-- Spanish Super Cup -->
+                    <div class="trophy-row">
+                        <div class="trophy-icon-count">
+                            <img src="img/super.svg" alt="">
+                            <span class="trophy-count" id="supercup-count">13</span>
+                        </div>
+                        <div class="trophy-info">
+                            <span class="trophy-title">Spanish Super Cup</span>
+                            <div class="trophy-progress"><div class="progress-bar" id="supercup-bar"></div></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- اسلایدر سال اینجاست (دقیقا زیر جاما) -->
+            <div class="slider-container">
+                <div class="slider-track">
+                    <input type="range" id="yearSlider" min="1905" max="2025" value="2025">
+                    <div class="year-bubble" id="yearBubble">2025</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- تبلیغات یا سایر محتوا -->
+<div class="container-fluid my-4 ad-banner-wrapper">
+    <div class="bg-light rounded-4 text-center py-4">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+            <img src="img/9452798778835574359.gif" alt="Ad Banner" class="img-fluid mx-auto d-block ad-banner-img" />
+        </a>
+    </div>
+</div>
+<!-------------------------------------store----------------------->
+<section class="store-section">
+    <h2 class="store-title">Official Store</h2>
+    <h4 class="store-subtitle">Featured Collections</h4>
+    <div class="carousel-container">
+        <button class="carousel-btn prev">&#10094;</button>
+        <div class="store-cards" id="carouselTrack">
+            <!-- کارت اول -->
+            <div class="store-card">
+                <img src="img/shop1.jpg" alt="Mbappé #10 Jersey" class="store-card-img">
+                <div class="store-card-info">
+                    <h3 class="product-title">Official Mbappé #10 Jersey</h3>
+                    <a href="https://shop.realmadrid.com/en-us/players/mbappe?utm_source=web&utm_medium=shop-links&utm_campaign=herocarrusel_colecciones-ecom_perm_en_us&utm_content=Jerseys-kits-away&campaignId=56dc2c1c-5b65-4688-b3ee-18944f62f05b&campaignChannel=web-herocarrusel&language=en-US"><button class="shop-btn">Shop now</button></a>
+                </div>
+            </div>
+            <!-- کارت دوم -->
+            <div class="store-card">
+                <img src="img/shop2.jpg" alt="Home Jersey 25/26" class="store-card-img">
+                <div class="store-card-info">
+                    <h3 class="product-title">Home Jersey 25/26</h3>
+                    <a href="https://shop.realmadrid.com/en-us/content/jerseys-kits?utm_source=web&utm_medium=shop-links&utm_campaign=herocarrusel_colecciones-ecom_perm_en_us&utm_content=Jerseys-kits-home&campaignId=3f1d2979-17f6-422f-a693-d118956af0c8&campaignChannel=web-herocarruse&language=en-US"><button class="shop-btn">Shop now</button></a>
+                </div>
+            </div>
+            <!-- کارت سوم -->
+            <div class="store-card">
+                <img src="img/shop3.jpg" alt="Away Jersey 25/26" class="store-card-img">
+                <div class="store-card-info">
+                    <h3 class="product-title">Away Jersey 25/26</h3>
+                    <a href="https://shop.realmadrid.com/en-us/jerseys-kits/away?utm_source=web&utm_medium=shop-links&utm_campaign=herocarrusel_colecciones-ecom_perm_en_us&utm_content=Jerseys-kits-away&campaignId=544c3cc8-0fc5-44b5-a482-425cfe44ae32&campaignChannel=web-herocarrusel&language=en-US"><button class="shop-btn">Shop now</button></a>
+                </div>
+            </div>
+            <!-- کارت‌های بیشتر ... -->
+            <div class="store-card">
+                <img src="img/shop4.jpg" alt="Official training collection" class="store-card-img">
+                <div class="store-card-info">
+                    <h3 class="product-title">Official training collection</h3>
+                    <a href="https://shop.realmadrid.com/en-us/training?utm_source=web&utm_medium=shop-links&utm_campaign=herocarrusel_colecciones-ecom_perm_en_us&utm_content=training-25-26&campaignId=3f1d2979-17f6-422f-a693-d118956af0c8&campaignChannel=web-herocarrusel&language=en-US"><button class="shop-btn">Shop now</button></a>
+                </div>
+            </div>
+            <div class="store-card">
+                <img src="img/shop5.jpg" alt="US Pack" class="store-card-img">
+                <div class="store-card-info">
+                    <h3 class="product-title">US Pack</h3>
+                    <a href="https://shop.realmadrid.com/en-us/adidas/college?utm_source=web&utm_medium=shop-links&utm_campaign=herocarrusel_colecciones-ecom_perm_en_us&utm_content=adidas-college-25-26&campaignId=3f1d2979-17f6-422f-a693-d118956af0c8&campaignChannel=web-herocarrusel&language=en-US"><button class="shop-btn">Shop now</button></a>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-btn next">&#10095;</button>
+    </div>
+
+</section>
+<!-- تبلیغات یا سایر محتوا -->
+<div class="container-fluid my-4 ad-banner-wrapper">
+    <div class="bg-light rounded-4 text-center py-4">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+            <img src="img/17780049775012052191.png" alt="Ad Banner" class="img-fluid mx-auto d-block ad-banner-img" />
+        </a>
+    </div>
+</div>
+<!-----------------madridista-------------------->
+<!-- Madridista Community Section -->
+<section class="madridista-community">
+    <div class="mc-bg-card">
+        <a href="#"><img class="mc-inside-img" src="img/madidi1.jpg" alt="Madridista" /></a>
+        <div class="mc-content">
+            <div class="mc-title">Do you want to be part of the Club?</div>
+            <div class="mc-desc">Join the Madridista Community</div>
+            <a href="#" class="mc-btn">Become Premium</a>
+        </div>
+    </div>
+</section>
+
+<!-- Madridistas News Section -->
+<section class="madridista-news">
+    <div class="mn-title-row">
+        <div class="mn-title">Madridistas news</div>
+        <a href="#" class="mn-seeall">See all news &rarr;</a>
+    </div>
+    <div class="mn-cards">
+        <div class="mn-card">
+           <a class="madridi" href="https://www.realmadrid.com/en-US/news/club/madridistas/the-new-2025-26-real-madrid-kit-is-now-available-23-06-2025"><img src="img/madidi2.jpg" alt="premium offer">
+            <div class="mn-card-caption">The new 2025/26 Real Madrid kit is now available!</div></a>
+        </div>
+        <div class="mn-card">
+            <a class="madridi" href="https://www.realmadrid.com/en-US/news/club/madridistas/disfruta-del-madridismo-a-lo-grande-en-dubai-con-un-20-de-descuento-exclusivo-03-06-2025"><img src="img/madidi3.jpg" alt="offer">
+            <div class="mn-card-caption">Enjoy Madridismo in Dubai with exclusive 20% discount</div></a>
+        </div>
+        <div class="mn-card">
+            <a class="madridi" href="https://www.realmadrid.com/en-US/news/club/madridistas/a-very-special-proposal-at-the-santiago-bernabeu-19-06-2025"> <img src="img/madidi4.jpg" alt="special proposal">
+            <div class="mn-card-caption">A very special proposal... at the Santiago Bernabeu</div></a>
+        </div>
+    </div>
+</section>
+
+<!----------------weather------------------->
+<section class="weather-widget-full">
+    <div class="weather-content">
+        <h2>Weather Status</h2>
+        <div class="weather-form">
+            <input id="cityInput" type="text" placeholder="Enter city name..." />
+            <button id="weatherBtn">Show</button>
+        </div>
+        <div id="weatherResult" class="weather-result"></div>
+    </div>
+</section>
+<!-- تبلیغات یا سایر محتوا -->
+<div class="container-fluid my-4 ad-banner-wrapper">
+    <div class="bg-light rounded-4 text-center py-4">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+            <img src="img/2116766668942381183.gif" alt="Ad Banner" class="img-fluid mx-auto d-block ad-banner-img" />
+        </a>
+    </div>
+</div>
+<!----------------footer---------------------->
+
+<footer class="rm-footer">
+    <div class="rm-footer-top">
+        <div class="rm-footer-cols">
+            <div>
+                <h4>Product</h4>
+                <ul>
+                    <li><a href="#">Shop</a></li>
+                    <li><a href="#">Adult Team</a></li>
+                    <li><a href="#">Women Team</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Basketball</h4>
+                <ul>
+                    <li><a href="#">Basketball First Team</a></li>
+                    <li><a href="#">Schedule</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>The Club</h4>
+                <ul>
+                    <li><a href="#">History &amp; Legends</a></li>
+                    <li><a href="#">Stadium</a></li>
+                    <li><a href="#">Foundation</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Media</h4>
+                <ul>
+                    <li><a href="#">Official Real Madrid App</a></li>
+                    <li><a href="#">RM Play</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Hospitality</h4>
+                <ul>
+                    <li><a href="#">Packages</a></li>
+                    <li><a href="#">Tickets</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="rm-footer-apps">
+            <a href="#"><img src="img/Google%20Play%20Badge_en.svg" alt="Google Play" /></a>
+            <a href="#"><img src="img/App%20Store%20Badge_en.svg" alt="App Store" /></a>
+        </div>
+    </div>
+    <div class="rm-footer-middle">
+        <div class="rm-footer-sponsors">
+            <img src="img/adidas_gray.svg" alt="Adidas"/>
+            <img src="img/hp_gray.svg" alt="HP"/>
+            <img src="img/dubai_gray.svg" alt="Dubai"/>
+            <img src="img/BMW_gray.svg" alt="BMW"/>
+            <img src="img/ea-sports_gray.svg" alt="EA sport"/>
+            <img src="img/LouisVuitton_gray.svg" alt="Hyundai"/>
+            <!-- ...ادامه بقیه لوگوها همینطور... -->
+        </div>
+    </div>
+    <div class="rm-footer-bottom">
+        <div>© 2025 Real Madrid C.F. All rights reserved.</div>
+        <div class="rm-footer-socials">
+            <a href="#"><img src="img/icons8-x-24.png" alt="Twitter" /></a>
+            <a href="#"><img src="img/icons8-facebook-24.png" alt="Facebook" /></a>
+            <a href="#"><img src="img/icons8-instagram-24.png" alt="Instagram" /></a>
+            <a href="#"><img src="img/icons8-youtube-24.png" alt="Youtube" /></a>
+            <!-- و غیره -->
+        </div>
+    </div>
+</footer>
+
+
+<!-- JS -->
+<script src="main.js"></script>
+
+</body>
+</html>

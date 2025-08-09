@@ -1,0 +1,714 @@
+{
+  "1905": {
+    "Copa del Rey": 1
+  },
+  "1906": {
+    "Copa del Rey": 2
+  },
+  "1907": {
+    "Copa del Rey": 3
+  },
+  "1908": {
+    "Copa del Rey": 4
+  },
+  "1909": {
+    "Copa del Rey": 4
+  },
+  "1910": {
+    "Copa del Rey": 4
+  },
+  "1911": {
+    "Copa del Rey": 4
+  },
+  "1912": {
+    "Copa del Rey": 4
+  },
+  "1913": {
+    "Copa del Rey": 4
+  },
+  "1914": {
+    "Copa del Rey": 4
+  },
+  "1915": {
+    "Copa del Rey": 4
+  },
+  "1916": {
+    "Copa del Rey": 4
+  },
+  "1917": {
+    "Copa del Rey": 5
+  },
+  "1918": {
+    "Copa del Rey": 5
+  },
+  "1919": {
+    "Copa del Rey": 5
+  },
+  "1920": {
+    "Copa del Rey": 5
+  },
+  "1921": {
+    "Copa del Rey": 5
+  },
+  "1922": {
+    "Copa del Rey": 5
+  },
+  "1923": {
+    "Copa del Rey": 5
+  },
+  "1924": {
+    "Copa del Rey": 5
+  },
+  "1925": {
+    "Copa del Rey": 5
+  },
+  "1926": {
+    "Copa del Rey": 5
+  },
+  "1927": {
+    "Copa del Rey": 5
+  },
+  "1928": {
+    "Copa del Rey": 5
+  },
+  "1929": {
+    "Copa del Rey": 5
+  },
+  "1930": {
+    "Copa del Rey": 5
+  },
+  "1931": {
+    "Copa del Rey": 5
+  },
+  "1932": {
+    "La Liga": 1,
+    "Copa del Rey": 5
+  },
+  "1933": {
+    "La Liga": 2,
+    "Copa del Rey": 5
+  },
+  "1934": {
+    "La Liga": 2,
+    "Copa del Rey": 6
+  },
+  "1935": {
+    "La Liga": 2,
+    "Copa del Rey": 6
+  },
+  "1936": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1937": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1938": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1939": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1940": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1941": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1942": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1943": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1944": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1945": {
+    "La Liga": 2,
+    "Copa del Rey": 7
+  },
+  "1946": {
+    "La Liga": 2,
+    "Copa del Rey": 8
+  },
+  "1947": {
+    "La Liga": 2,
+    "Copa del Rey": 9
+  },
+  "1948": {
+    "La Liga": 2,
+    "Copa del Rey": 9
+  },
+  "1949": {
+    "La Liga": 2,
+    "Copa del Rey": 9
+  },
+  "1950": {
+    "La Liga": 2,
+    "Copa del Rey": 9
+  },
+  "1951": {
+    "La Liga": 2,
+    "Copa del Rey": 9
+  },
+  "1952": {
+    "La Liga": 2,
+    "Copa del Rey": 9
+  },
+  "1953": {
+    "La Liga": 2,
+    "Copa del Rey": 9
+  },
+  "1954": {
+    "La Liga": 3,
+    "Copa del Rey": 9
+  },
+  "1955": {
+    "La Liga": 4,
+    "Copa del Rey": 9
+  },
+  "1956": {
+    "La Liga": 4,
+    "Copa del Rey": 9,
+    "Champions League": 1
+  },
+  "1957": {
+    "La Liga": 5,
+    "Copa del Rey": 9,
+    "Champions League": 2
+  },
+  "1958": {
+    "La Liga": 6,
+    "Copa del Rey": 9,
+    "Champions League": 3
+  },
+  "1959": {
+    "La Liga": 6,
+    "Copa del Rey": 9,
+    "Champions League": 4
+  },
+  "1960": {
+    "La Liga": 6,
+    "Copa del Rey": 9,
+    "Champions League": 5,
+    "FIFA Club World Cup": 1
+  },
+  "1961": {
+    "La Liga": 7,
+    "Copa del Rey": 9,
+    "Champions League": 5,
+    "FIFA Club World Cup": 1
+  },
+  "1962": {
+    "La Liga": 8,
+    "Copa del Rey": 10,
+    "Champions League": 5,
+    "FIFA Club World Cup": 1
+  },
+  "1963": {
+    "La Liga": 9,
+    "Copa del Rey": 10,
+    "Champions League": 5,
+    "FIFA Club World Cup": 1
+  },
+  "1964": {
+    "La Liga": 10,
+    "Copa del Rey": 10,
+    "Champions League": 5,
+    "FIFA Club World Cup": 1
+  },
+  "1965": {
+    "La Liga": 11,
+    "Copa del Rey": 10,
+    "Champions League": 5,
+    "FIFA Club World Cup": 1
+  },
+  "1966": {
+    "La Liga": 11,
+    "Copa del Rey": 10,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1967": {
+    "La Liga": 12,
+    "Copa del Rey": 10,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1968": {
+    "La Liga": 13,
+    "Copa del Rey": 10,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1969": {
+    "La Liga": 14,
+    "Copa del Rey": 10,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1970": {
+    "La Liga": 14,
+    "Copa del Rey": 11,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1971": {
+    "La Liga": 14,
+    "Copa del Rey": 11,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1972": {
+    "La Liga": 15,
+    "Copa del Rey": 11,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1973": {
+    "La Liga": 15,
+    "Copa del Rey": 11,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1974": {
+    "La Liga": 15,
+    "Copa del Rey": 12,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1975": {
+    "La Liga": 16,
+    "Copa del Rey": 13,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1976": {
+    "La Liga": 17,
+    "Copa del Rey": 13,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1977": {
+    "La Liga": 17,
+    "Copa del Rey": 13,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1978": {
+    "La Liga": 17,
+    "Copa del Rey": 18,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1979": {
+    "La Liga": 19,
+    "Copa del Rey": 13,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1980": {
+    "La Liga": 20,
+    "Copa del Rey": 14,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1981": {
+    "La Liga": 20,
+    "Copa del Rey": 14,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1982": {
+    "La Liga": 20,
+    "Copa del Rey": 15,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1983": {
+    "La Liga": 20,
+    "Copa del Rey": 15,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1984": {
+    "La Liga": 20,
+    "Copa del Rey": 15,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1
+  },
+  "1985": {
+    "La Liga": 20,
+    "Copa del Rey": 15,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 1
+  },
+  "1986": {
+    "La Liga": 21,
+    "Copa del Rey": 15,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "1987": {
+    "La Liga": 22,
+    "Copa del Rey": 15,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "1988": {
+    "La Liga": 23,
+    "Copa del Rey": 15,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2,
+    "Spanish Super Cup": 1
+  },
+  "1989": {
+    "La Liga": 24,
+    "Copa del Rey": 16,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2,
+    "Spanish Super Cup": 2
+  },
+  "1990": {
+    "La Liga": 25,
+    "Copa del Rey": 16,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2,
+    "Spanish Super Cup": 3
+  },
+  "1991": {
+    "La Liga": 25,
+    "Copa del Rey": 16,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2,
+    "Spanish Super Cup": 3
+  },
+  "1992": {
+    "La Liga": 25,
+    "Copa del Rey": 16,
+    "Spanish Super Cup": 3,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+
+  },
+  "1993": {
+    "La Liga": 25,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 4,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "1994": {
+    "La Liga": 25,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 4,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "1995": {
+    "La Liga": 26,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 4,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "1996": {
+    "La Liga": 26,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 4,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "1997": {
+    "La Liga": 27,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 5,
+    "Champions League": 6,
+    "FIFA Club World Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "1998": {
+
+    "La Liga": 27,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 5,
+    "Champions League": 7,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "1999": {
+    "La Liga": 27,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 5,
+    "Champions League": 7,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2000": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 27,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 5,
+    "Champions League": 8,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2001": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 28,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 6,
+    "Champions League": 8,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2002": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 28,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 6,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2003": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 29,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 7,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2004": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 29,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 7,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2005": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 29,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 7,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2006": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 29,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 7,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2007": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 30,
+    "Copa del Rey": 17,
+    "Spanish Super Cup": 7,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2008": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 31,
+    "Copa del Rey": 17,
+    "Spanish Super Cup":8,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2009": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 31,
+    "Copa del Rey": 17,
+    "Spanish Super Cup":8,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2010": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 31,
+    "Copa del Rey": 17,
+    "Spanish Super Cup":8,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2011": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 31,
+    "Copa del Rey": 18,
+    "Spanish Super Cup":8,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2012": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 32,
+    "Copa del Rey": 18,
+    "Spanish Super Cup":8,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2013": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 32,
+    "Copa del Rey": 18,
+    "Spanish Super Cup":9,
+    "Champions League": 9,
+    "FIFA Club World Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2014": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 32,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":9,
+    "Champions League": 10,
+    "FIFA Club World Cup": 3,
+    "European Super Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "2015": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 32,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":9,
+    "Champions League": 10,
+    "FIFA Club World Cup": 3,
+    "European Super Cup": 1,
+    "UEFA Super Cup": 2
+  },
+  "2016": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 32,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":9,
+    "Champions League": 11,
+    "FIFA Club World Cup": 4,
+    "European Super Cup": 2,
+    "UEFA Super Cup": 2
+  },
+  "2017": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 33,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":10,
+    "Champions League": 12,
+    "FIFA Club World Cup": 5,
+    "European Super Cup": 3,
+    "UEFA Super Cup": 2
+  },
+  "2018": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 33,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":10,
+    "Champions League": 13,
+    "FIFA Club World Cup": 6,
+    "European Super Cup": 3,
+    "UEFA Super Cup": 2
+  },
+  "2019": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 33,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":10,
+    "Champions League": 13,
+    "FIFA Club World Cup": 6,
+    "European Super Cup": 3,
+    "UEFA Super Cup": 2
+  },
+  "2020": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 34,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":11,
+    "Champions League": 13,
+    "FIFA Club World Cup": 6,
+    "European Super Cup": 3,
+    "UEFA Super Cup": 2
+  },
+  "2021": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 34,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":11,
+    "Champions League": 13,
+    "FIFA Club World Cup": 6,
+    "European Super Cup": 3,
+    "UEFA Super Cup": 2
+  },
+  "2022": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 35,
+    "Copa del Rey": 19,
+    "Spanish Super Cup":12,
+    "Champions League": 14,
+    "FIFA Club World Cup": 8,
+    "European Super Cup": 5,
+    "UEFA Super Cup": 2
+  },
+  "2023": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 35,
+    "Copa del Rey": 20,
+    "Spanish Super Cup":12,
+    "Champions League": 14,
+    "FIFA Club World Cup": 8,
+    "European Super Cup": 5,
+    "UEFA Super Cup": 2
+  },
+  "2024": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 36,
+    "Copa del Rey": 20,
+    "Spanish Super Cup":13,
+    "Champions League": 15,
+    "FIFA Club World Cup": 9,
+    "European Super Cup": 6,
+    "UEFA Super Cup": 2
+  },
+  "2025": {
+    "The Best Club of the 20th Century FIFA Trophy": 1,
+    "La Liga": 36,
+    "Copa del Rey": 20,
+    "Spanish Super Cup":13,
+    "Champions League": 15,
+    "FIFA Club World Cup": 9,
+    "European Super Cup": 6,
+    "UEFA Super Cup": 2
+  }
+}
